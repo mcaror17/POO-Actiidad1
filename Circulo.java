@@ -5,7 +5,7 @@
 import java.util.Scanner;
 public class Circulo {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         double r, area, per;
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese un numero: ");
