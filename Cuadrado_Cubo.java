@@ -5,7 +5,7 @@
 import java.util.Scanner;
 public class Cuadrado_Cubo {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         double a, cuad, cubo; 
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrese un numero: ");
