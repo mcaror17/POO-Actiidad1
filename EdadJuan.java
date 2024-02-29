@@ -4,9 +4,6 @@
  */
 public class EdadJuan {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         int edjuan = 9; 
         int edana, edalber, edmama;
