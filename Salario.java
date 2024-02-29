@@ -4,7 +4,7 @@
  */
 public class Salario {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         double horas, rz, retenc, sbruto, sneto;
         horas = 48;
         rz = 5000;
