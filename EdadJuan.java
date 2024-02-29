@@ -4,7 +4,7 @@
  */
 public class EdadJuan {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int edjuan = 9; 
         int edana, edalber, edmama;
         edalber = 2*edjuan/3;
